@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xml:lang="en"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+    <channel>
+        <title><![CDATA[The Rookie And The Vet Podcast]]></title>
+        <link>https://www.youtube.com/playlist?list=PLK17qjXUqfN_ZyNf4JJHgXMbZ6KUm1p5T</link>
+        <description><![CDATA[The Rookie And The Vet Podcast Talk playlist and episode archive.]]></description>
+
+        <atom:link href="https://rico75.github.io/therookieandthevet/rss/dark-horse-rss.xml"
+                   rel="self"
+                   type="application/rss+xml"/>
+        <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+
+        <language>en</language>
+        <lastBuildDate>Sun, 06 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <generator>The Rookie And The Vet Podcast RSS Generator</generator>
+        <copyright><![CDATA[The Rookie And The Vet Podcast Talk 2026]]></copyright>
+
+        <image>
+            <url>https://i.ytimg.com/vi/clUWeHUAGI4/hqdefault.jpg</url>
+            <title>The Rookie And The Vet Podcast</title>
+            <link>https://www.youtube.com/playlist?list=PLK17qjXUqfN_ZyNf4JJHgXMbZ6KUm1p5T</link>
+        </image>
+
+        <itunes:image href="https://i.ytimg.com/vi/clUWeHUAGI4/hqdefault.jpg"/>
+
+        <podcast:guid>a1a7781e-3981-586e-8ca0-41cb32d23366</podcast:guid>
+        <podcast:locked>no</podcast:locked>
+        <podcast:license><![CDATA[The Rookie And The Vet Podcast Talk 2026]]></podcast:license>
+        <podcast:medium>podcast</podcast:medium>
+        <podcast:location rel="creator"
+                          geo="geo:36.7014631,-118.755997"
+                          osm="R165475"
+                          country="us">California, USA</podcast:location>
+        <podcast:txt purpose="ai-content">false</podcast:txt>
+
+        <itunes:author>The Rookie And The Vet Podcast Talk</itunes:author>
+        <itunes:owner>
+            <itunes:name>The Rookie And The Vet Podcast Talk</itunes:name>
+            <itunes:email>poker.tales.podcast@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+
+        <itunes:category text="Sports">
+            <itunes:category text="Soccer"/>
+        </itunes:category>
+
+        <item>
+            <title><![CDATA[Episode 1: Welcome to The Rookie And The Vet Podcast]]></title>
+            <itunes:title><![CDATA[Episode 1: Welcome to The Rookie And The Vet Podcast]]></itunes:title>
+            <description><![CDATA[<p>Episode 1 introduces the The Rookie And The Vet Podcast playlist and crew.</p>]]></description>
+            <link>https://rico75.github.io/therookieandthevet/episodes/episode-1.html</link>
+            <guid isPermaLink="true">https://rico75.github.io/therookieandthevet/episodes/episode-1.html</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>184</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <podcast:season>1</podcast:season>
+            <podcast:episode>1</podcast:episode>
+        </item>
+
+        <item>
+            <title><![CDATA[Episode 2: MSG Brawl and Betting Debate]]></title>
+            <itunes:title><![CDATA[Episode 2: MSG Brawl and Betting Debate]]></itunes:title>
+            <description><![CDATA[<p>Episode 2 covers the MSG fan brawl, sports betting growth, and game integrity.</p>]]></description>
+            <link>https://rico75.github.io/therookieandthevet/episodes/episode-2.html</link>
+            <guid isPermaLink="true">https://rico75.github.io/therookieandthevet/episodes/episode-2.html</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>442</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <podcast:season>1</podcast:season>
+            <podcast:episode>2</podcast:episode>
+        </item>
+
+        <item>
+            <title><![CDATA[Episode 3: The Rookie And The Vet Podcast Roundtable]]></title>
+            <itunes:title><![CDATA[Episode 3: The Rookie And The Vet Podcast Roundtable]]></itunes:title>
+            <description><![CDATA[<p>Episode 3 delivers a full The Rookie And The Vet Podcast roundtable across current stories and betting angles.</p>]]></description>
+            <link>https://rico75.github.io/therookieandthevet/episodes/episode-3.html</link>
+            <guid isPermaLink="true">https://rico75.github.io/therookieandthevet/episodes/episode-3.html</guid>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>755</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <podcast:season>1</podcast:season>
+            <podcast:episode>3</podcast:episode>
+        </item>
+
+        <item>
+            <title><![CDATA[Episode 4: World Cup and NBA Trade Chaos]]></title>
+            <itunes:title><![CDATA[Episode 4: World Cup and NBA Trade Chaos]]></itunes:title>
+            <description><![CDATA[<p>Episode 4 dives into NBA draft trade shockers and major World Cup momentum.</p>]]></description>
+            <link>https://rico75.github.io/therookieandthevet/episodes/episode-4.html</link>
+            <guid isPermaLink="true">https://rico75.github.io/therookieandthevet/episodes/episode-4.html</guid>
+            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>496</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <podcast:season>1</podcast:season>
+            <podcast:episode>4</podcast:episode>
+        </item>
+
+        <item>
+            <title><![CDATA[Episode 5: Penalty Kicks, Caitlin Clark, and LeBron]]></title>
+            <itunes:title><![CDATA[Episode 5: Penalty Kicks, Caitlin Clark, and LeBron]]></itunes:title>
+            <description><![CDATA[<p>Episode 5 covers World Cup penalty drama, WNBA-Caitlin Clark debates, and LeBron's legacy.</p>]]></description>
+            <link>https://rico75.github.io/therookieandthevet/episodes/episode-5.html</link>
+            <guid isPermaLink="true">https://rico75.github.io/therookieandthevet/episodes/episode-5.html</guid>
+            <pubDate>Sun, 06 Jul 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>180</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <podcast:season>1</podcast:season>
+            <podcast:episode>5</podcast:episode>
+        </item>
+
+    </channel>
+</rss>
